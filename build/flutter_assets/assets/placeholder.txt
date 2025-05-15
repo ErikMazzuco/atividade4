@@ -1,0 +1,16 @@
+This file is just a placeholder to ensure the assets directory exists.
+In a real app, you would place your real image assets here.
+
+The following image files should be manually added to this directory:
+- splash_logo.png
+- onboarding1.png
+- onboarding2.png
+- onboarding3.png
+
+    PELO AMOR DE DEUS MUDA AS ONBOARDING SE NÃO PODDE ACONTECER ALGO MUITO TRÁGICO MAS MEIO COMICO TAMBÉM, SLA A VIDA É BOAS VEZES
+
+NOTE2
+This file is just a placeholder to ensure the assets directory exists.
+In a real app, you would place your real image assets here.
+
+Note: We're now using network images via "https://pixabay.com/get/g2cc330582940c0aa60257e28b3524022990ee6cea750246d51180f53d82c0f222b6eb7d397d34e3d22b4d0311fd78700a70465c78b202b14a7b311851d336c49_1280.jpg" for the onboarding instead of asset images.   

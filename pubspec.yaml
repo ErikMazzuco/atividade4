@@ -1,0 +1,46 @@
+name: dreamflow
+description: "A DreamFlow project"
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  animated_text_kit: ^4.0.0
+  smooth_page_indicator: ^1.0.0
+  flutter_native_splash: ^2.0.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  fl_chart: 0.68.0
+  google_fonts: 6.1.0
+  shared_preferences: ^2.3.2
+  path_provider: 2.1.4
+  provider: ^6.1.2
+  http: '>=1.0.0'
+  uuid: '>=3.0.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name: ^1.4.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    # Empty assets directory is still needed for structure
+    - assets/
+
+flutter_native_splash:
+  color: "#6F61EF"
+  image: assets/splash_logo.png
+  color_dark: "#111417"
+  # Use icon instead of image since we don't have the actual image file
+  android: true
+  ios: true
+  web: false
+  android_12:
+    icon_background_color: "#6F61EF"
+    icon_background_color_dark: "#111417"
