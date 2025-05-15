@@ -1,4 +1,4 @@
-# DreamFlow 🌟 100% vibe coded
+# DreamFlow 100% vibe coded 🌟 
 
 <p align="center">
   <img src="assets/readme_banner.png" alt="DreamFlow Banner" width="600">
@@ -85,38 +85,7 @@ lib/
 │   ├── animated_button.dart # Botão animado para ações principais
 ```
 
-## 🧪 Testes
 
-Execute os testes unitários e de widget usando:
-
-```bash
-flutter test
-```
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
-
-1. Faça o fork do projeto
-2. Crie sua branch de feature (`git checkout -b feature/amazing-feature`)
-3. Commit suas mudanças (`git commit -m 'Add some amazing feature'`)
-4. Push para a branch (`git push origin feature/amazing-feature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## 📲 Compatibilidade
-
-- ✅ Android
-- ✅ iOS
-
-## 📞 Contato
-
-Criado com ❤️ por Seu Nome - [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-
----
 
 <p align="center">
   <img src="assets/dreamflow_logo.png" alt="DreamFlow Logo" width="150">
