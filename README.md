@@ -74,5 +74,5 @@ LOGIN E BANCO DE DADOS
 - **Flutter**: Framework utilizado para o desenvolvimento do aplicativo.
 
 - **Erik Matheus Mazzuco**: Desenvolvimento do projeto.
-- **Gabriel Vieira Moreno**: Desenvolvimento do projeto.
-- **Leandro Vidoto Francoi**: Desenvolvimento do projeto.
+- **Felipe Zonta Silva**: Desenvolvimento do projeto.
+- **Rocque Pennafort**: Desenvolvimento do projeto.
