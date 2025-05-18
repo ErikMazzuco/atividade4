@@ -8,6 +8,8 @@ Este projeto foi desenvolvido para a disciplina de **Dispositivos Móveis** com 
 2. `Splash Flutter` com `logo escura` e `fundo preto`.
 3. `Onboarding` com textos e `ícones adaptados` ao modo escuro.
 4. A `página de boas-vindas` também deve seguir o `tema escuro`.
+5. Tela de `Login`.
+6. `Banco de Dados`.
 
 ## 🧠 Funcionalidades
 
@@ -22,16 +24,13 @@ Este projeto foi desenvolvido para a disciplina de **Dispositivos Móveis** com 
 ## 📦 Estrutura do Projeto
 ```
 lib/
-├── screens/
-│   ├── onboarding/
-│   │   └──onboarding_page.dart 
-│   ├── splash/
-│   │   └──flutter_splash_page.dart   
-│   │   └──native_splash_page.dart   
-│   ├── welcome/
-│       └──welcome_page.dart          # Boas Vindas
-│   
-├── main.dart                         # Ponto de entrada do aplicativo
+├── database/
+│       └──database_helper.dart        #Banco de Dados
+├──pages/
+│    └──welcome_page.dart              # Boas Vindas
+├──widgets/
+│     └──login_text_form_field.dart
+├── main.dart                          # Ponto de entrada do aplicativo
 ```
 
 ### ▶️ Executar via Web (Gitpod)
@@ -69,9 +68,7 @@ Siga os passos abaixo para rodar o app na sua máquina:
 
 ## Funcionabilidades Implementadas
 
-^^^^Preencher^^^^
-^^^^^^^^^^^^^^^^^
-|||||||||||||||||
+LOGIN E BANCO DE DADOS
 
 ## Créditos
 - **Flutter**: Framework utilizado para o desenvolvimento do aplicativo.
