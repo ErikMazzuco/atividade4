@@ -36,7 +36,7 @@ lib/
 ### ▶️ Executar via Web (Gitpod)
 
 Abra o projeto direto no navegador usando o Gitpod:  
-[![Abrir no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ErikMazzuco/Atividade3)  
+[![Abrir no Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ErikMazzuco/atividade4)  
 ⚠️ **Requer Flutter Web. Ideal para testes rápidos e leitura do código.**
 
 ---
@@ -47,8 +47,8 @@ Siga os passos abaixo para rodar o app na sua máquina:
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/ErikMazzuco/Atividade3.git
-   cd Atividade3
+   git clone https://github.com/ErikMazzuco/atividade4.git
+   cd atividade4
    ```
 
 2. **Instale o Flutter**:
