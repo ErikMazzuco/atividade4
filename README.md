@@ -1,4 +1,4 @@
-# Atividade 3 - Flutter – Lauchscreen, Splashscreen e OnBoarding
+# Atividade 4 e 5 - Flutter – Lauchscreen, Splashscreen e OnBoarding
 
 Este projeto foi desenvolvido para a disciplina de **Dispositivos Móveis** com o objetivo de demonstrar o uso de **Lauchscreen, Splashscreen e OnBoarding no Flutter**.
 
