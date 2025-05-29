@@ -20,7 +20,9 @@ Este projeto foi desenvolvido para a disciplina de **Dispositivos Móveis** com 
 - 🔁 Animação suave com `AnimatedBuilder` e `Transform.translate`.
 - 📱 Layout responsivo e organizado.
 - 🧼 Separação entre lógica e interface com arquitetura modular.
+- 🎲 Banco de dados.
 
+  
 ## 📦 Estrutura do Projeto
 ```
 lib/
